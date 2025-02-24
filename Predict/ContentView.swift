@@ -35,8 +35,7 @@ struct ContentView: View {
                                 "You Rock🤘!",
                                 "Fun = Anyplace With You! 🎉",
                                 "You Look Great!",
-                                "Hurray! You're Here!🥳"
-    ]
+                                "Hurray! You're Here!🥳"]
     var body: some View {
         VStack {
             Spacer()
